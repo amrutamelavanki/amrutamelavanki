@@ -1,6 +1,10 @@
-<h1 align="center">👋 Hi, I'm Your Name</h1>
+<h1 align="center">👋 Hi, I'm Amruta BM</h1>
 
-<h3 align="center">💻 Aspiring Full-Stack Developer &nbsp;|&nbsp; Java, Spring Boot, React</h3>
+<h3 align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    💻 Full-Stack Developer &nbsp;|&nbsp; Java, Spring Boot, React
+  </marquee>
+</h3>
 
 <br/>
 
