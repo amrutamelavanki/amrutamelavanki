@@ -1,28 +1,28 @@
-<h1 align="center">👋 Hi, I'm Amruta BM</h1>
+<h1 align="center">👋 Hi, I'm Your Name</h1>
 
-<h3 align="center">🛠️ DevOps Engineer &nbsp;|&nbsp; 💻 Full-Stack Java Developer</h3>
+<h3 align="center">💻 Aspiring Full-Stack Developer &nbsp;|&nbsp; Java, Spring Boot, React</h3>
 
 <br/>
 
 ## 🌱 About Me
 
-I'm a **DevOps Engineer and Full-Stack Java Developer** passionate about building **scalable, automated, and reliable systems**. My work spans backend development with **Java and Spring Boot**, and infrastructure automation using **AWS, Docker, Kubernetes, and CI/CD pipelines**.
+I'm a **Computer Science student** and **aspiring Full-Stack Developer** passionate about building clean, scalable web applications. I work primarily with **Java and Spring Boot** on the backend, and **React** on the frontend.
 
-I enjoy bridging the gap between development and operations — writing clean, maintainable code while also owning how it's built, tested, deployed, and monitored in production.
+I enjoy turning ideas into working products — from designing REST APIs to building responsive, user-friendly interfaces.
 
 My focus areas include:
-- 🧱 Building robust backend services with **Java, Spring Boot, and REST APIs**
-- ☁️ Designing and managing cloud infrastructure on **AWS**
-- 📦 Containerizing applications with **Docker** and orchestrating with **Kubernetes**
-- 🔄 Setting up and maintaining **CI/CD pipelines** for fast, reliable deployments
-- 📊 Monitoring and improving system reliability and performance
+- 🧱 Building backend services and REST APIs with **Java and Spring Boot**
+- 🎨 Creating responsive, interactive UIs with **React**
+- 🗄️ Working with relational databases like **MySQL** and **PostgreSQL**
+- 🔧 Writing clean, maintainable, well-structured code
+- 📚 Continuously learning new tools and best practices in full-stack development
 
 <br/>
 
 ## 🧰 Skills and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,kubernetes,jenkins,git,github,linux,bash,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,javascript,html,css,mysql,postgres,git,github" />
 </p>
 
 <br/>
