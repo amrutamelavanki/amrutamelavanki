@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <marquee behavior="scroll" direction="left" scrollamount="5">
-    💻 Full-Stack Developer &nbsp;|&nbsp; Java, Spring Boot, React
+    💻 Software Developer &nbsp;|&nbsp; Java, Spring Boot, React
   </marquee>
 </h3>
 
