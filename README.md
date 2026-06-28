@@ -38,13 +38,11 @@ My focus areas include:
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:amruta.melavanki@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </p>
 
-📧 **Email:** your.email@example.com
-🔗 **LinkedIn:** [linkedin.com/in/your-linkedin-handle](https://linkedin.com/in/your-linkedin-handle)
 
 <br/>
 
