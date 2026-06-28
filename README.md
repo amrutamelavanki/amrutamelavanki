@@ -48,12 +48,6 @@ My focus areas include:
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
-
 <br/>
 
 <p align="center"><i>Thanks for visiting my profile! 🚀</i></p>
