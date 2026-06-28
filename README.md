@@ -10,7 +10,7 @@
 
 ## 🌱 About Me
 
-I'm a **Computer Science student** and **aspiring Full-Stack Developer** passionate about building clean, scalable web applications. I work primarily with **Java and Spring Boot** on the backend, and **React** on the frontend.
+I'm a **aspiring Full-Stack Developer** passionate about building clean, scalable web applications. I work primarily with **Java and Spring Boot** on the backend, and **React** on the frontend.
 
 I enjoy turning ideas into working products — from designing REST APIs to building responsive, user-friendly interfaces.
 
